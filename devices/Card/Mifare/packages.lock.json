@@ -4,21 +4,21 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.14.2, 1.14.2]",
-        "resolved": "1.14.2",
-        "contentHash": "j1mrz4mitl5LItvmHMsw1aHzCAfvTTgIkRxA0mhs5mSpctJ/BBcuNwua5j3MspfRNKreCQPy/qZy/D9ADLL/PA=="
+        "requested": "[1.16.1, 1.16.1]",
+        "resolved": "1.16.1",
+        "contentHash": "pUQR6+CuheWC6UXkiIXhmknPkm50OYuKs6TcIBieV50D1R991QSJUFWjM1AixT/37REh8rzx2OAPgX6YDs06zA=="
       },
       "nanoFramework.Logging": {
         "type": "Direct",
-        "requested": "[1.1.63, 1.1.63]",
-        "resolved": "1.1.63",
-        "contentHash": "gutjQRIKKJc91qKzkGtpA8uvTpNUK1r2OuEy7C8W+dEICkFgR+z1itcG7gKv9I12oiHyurc/3mMgDyz8CsPD3A=="
+        "requested": "[1.1.131, 1.1.131]",
+        "resolved": "1.1.131",
+        "contentHash": "Nd+oE79H1FKUODP/JuSS0kmAajf+zks6aae2oWZ5ucIN/Wj9bCIiSswf/EBJZJpepRsq/Yvh0G4Z5EoGeYFh8A=="
       },
       "nanoFramework.System.Buffers.Binary.BinaryPrimitives": {
         "type": "Direct",
-        "requested": "[1.2.325, 1.2.325]",
-        "resolved": "1.2.325",
-        "contentHash": "uwNE0GprnJplF0J238jRa9f7JaXgZxbTJckXMaJEVBxqkmLncw4Mi+rfJdr6mOoLWLQVaE5NevciWZnUja2lJQ=="
+        "requested": "[1.2.699, 1.2.699]",
+        "resolved": "1.2.699",
+        "contentHash": "OhR1PNfnToj+1Gun1BA8Uk4mhJW6HWZeW2EKPhHozVlzSLUOUOkjVko2Vje5qCmvA2EuAi8AxKJec/vad9TV0g=="
       }
     }
   }
