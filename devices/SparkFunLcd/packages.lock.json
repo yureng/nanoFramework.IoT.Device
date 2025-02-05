@@ -4,39 +4,39 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.14.2, 1.14.2]",
-        "resolved": "1.14.2",
-        "contentHash": "j1mrz4mitl5LItvmHMsw1aHzCAfvTTgIkRxA0mhs5mSpctJ/BBcuNwua5j3MspfRNKreCQPy/qZy/D9ADLL/PA=="
+        "requested": "[1.16.11, 1.16.11]",
+        "resolved": "1.16.11",
+        "contentHash": "2XW+Zn0lQ+lOcxDbB1l2ga2rNoj9Jv2IeJwXE4ka1r+swmxn5N/otlMJVEXJgK8trUeD/E8T7+J7dXjU8UReHw=="
       },
       "nanoFramework.Graphics.Core": {
         "type": "Direct",
-        "requested": "[1.1.37, 1.1.37]",
-        "resolved": "1.1.37",
-        "contentHash": "JSO5PU+CczzjqLZTTgdi/fx5BGtA8Z1m1RxpjxaYhLFPDPN1ATbDGwAdIUgxNeU77EAl1QRuni9lTA0OnfDrIQ=="
+        "requested": "[1.2.35, 1.2.35]",
+        "resolved": "1.2.35",
+        "contentHash": "x7G28CjHL5VayU8ID49tR3apQeWQSGkwo85KnLri0zoc2NAN9b5TONaZc5J5OmO6vSE6B3jQRU3QmR+H+pOv2g=="
       },
       "nanoFramework.Runtime.Native": {
         "type": "Direct",
-        "requested": "[1.6.6, 1.6.6]",
-        "resolved": "1.6.6",
-        "contentHash": "ySEYUh8bTiFYAUce3uQLfOvvnunTx10j7Xsw+ChlS+nXFC/kCctgTob7k1McZrxqTs0CZo+Ux5eW4oYKzx25aw=="
+        "requested": "[1.7.8, 1.7.8]",
+        "resolved": "1.7.8",
+        "contentHash": "8wWz/dUDJ3BHTVHNZ9VqLjaWyfn9OB1DU2iJgY7WvV/DkVMF3mLw80/3g5I5BfAUUhNq1DgQo8Id5yt4QOZq+g=="
       },
       "nanoFramework.System.Device.I2c": {
         "type": "Direct",
-        "requested": "[1.1.11, 1.1.11]",
-        "resolved": "1.1.11",
-        "contentHash": "zV9CfXGTzTV8C+5SSBF5w6wZK4zcZeDtgv0XtXkkCEx8Z4woICsD+9me6YQEYz6IKQKoRAw6VEaQMScqs0b0mQ=="
+        "requested": "[1.1.26, 1.1.26]",
+        "resolved": "1.1.26",
+        "contentHash": "LpTcH5PTIdPDLrCxH7KBS5PS57CpYznPy4sI5aqrsqZAqKTYV2m1dzuTfVHmU7Jbi9oN1KgRcUWmdbw4eOLy/A=="
       },
       "nanoFramework.System.Math": {
         "type": "Direct",
-        "requested": "[1.5.29, 1.5.29]",
-        "resolved": "1.5.29",
-        "contentHash": "PyufZzrtDA7HKCbrbOEbqDhaWK5vflJmAi7RJ+a4cPLMmO9cSWc0dUbylMg6Wxg7Ggu1VmcPqfCIZPFHbx5/2A=="
+        "requested": "[1.5.90, 1.5.90]",
+        "resolved": "1.5.90",
+        "contentHash": "8hwML15/Aqss7NAAINgU0YdbCJw5j9UR1FHvbncJR20TSARBOQK7zG5Do2sJvci9/hMFpsHo6K8oPtPPTn2yjw=="
       },
       "Nerdbank.GitVersioning": {
         "type": "Direct",
-        "requested": "[3.6.133, 3.6.133]",
-        "resolved": "3.6.133",
-        "contentHash": "VZWMd5YAeDxpjWjAP/X6bAxnRMiEf6tES/ITN0X5CHJgkWLLeHGmEALivmTAfYM6P+P/3Szy6VCITUAkqjcHVw=="
+        "requested": "[3.7.115, 3.7.115]",
+        "resolved": "3.7.115",
+        "contentHash": "EpXamaAdRfG/BMxGgvZlTM0npRnkmXUjAj8OdNKd17t4oN+2nvjdv/KnFmzOOMDqvlwB49UCwtOHJrAQTfUBtQ=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
